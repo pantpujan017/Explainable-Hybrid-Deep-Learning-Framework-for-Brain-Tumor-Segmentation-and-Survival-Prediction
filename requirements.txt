@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-image
+matplotlib
+tensorflow
+keras
+sklearn
+nibabel
+opencv-python
+torch
+torchvision
+tqdm
+split-folders
